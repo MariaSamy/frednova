@@ -1,0 +1,16 @@
+FREDNOVA V4 - GITHUB PAGES CHECKLIST
+
+1. Create repository: MariaSamy.github.io (if not already created).
+2. Upload ALL files from frednova_site_v4 to the repository root.
+3. Confirm index.html is in the root, not inside another nested folder.
+4. GitHub -> Settings -> Pages -> Deploy from branch -> main -> /root.
+5. Wait for GitHub Pages deployment and open https://mariasamy.github.io/
+6. Test navigation at desktop and mobile widths.
+7. Test these four external live-app buttons:
+   - https://automatic-id-card-database.onrender.com/
+   - https://little-voice-english.onrender.com/
+   - https://bus-enga.onrender.com/
+   - https://ai-university-ib4p.onrender.com/
+8. Test Book a Demo form and the mailto flow to mariasamy23@gmail.com.
+9. Keep backend/data applications hosted on Render (GitHub Pages is the public front-end hub).
+10. Do not publish registration/trademark claims until clearance is complete.

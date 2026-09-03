@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560" fill="none">
+<defs><linearGradient id="g1" x1="80" y1="60" x2="720" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#8B5CFF"/><stop offset="0.55" stop-color="#2F86FF"/><stop offset="1" stop-color="#35D7D2"/></linearGradient></defs>
+<rect width="800" height="560" rx="42" fill="#08142F"/>
+<circle cx="134" cy="120" r="86" fill="#A14CFF" opacity="0.18"/>
+<circle cx="675" cy="108" r="96" fill="#23D6D2" opacity="0.14"/>
+<circle cx="652" cy="432" r="92" fill="#FF67B3" opacity="0.12"/>
+<rect x="70" y="70" width="320" height="420" rx="28" fill="#12244D" stroke="rgba(255,255,255,0.12)"/>
+<rect x="110" y="122" width="242" height="30" rx="15" fill="#20386F"/>
+<rect x="110" y="177" width="156" height="18" rx="9" fill="#35507F"/>
+<rect x="110" y="212" width="198" height="18" rx="9" fill="#35507F"/>
+<rect x="110" y="260" width="168" height="114" rx="22" fill="url(#g1)"/>
+<path d="M144 307c21-34 56-52 103-52 0 38-12 68-36 91-24 23-55 34-93 34 0-31 9-56 26-73z" fill="#fff" opacity="0.92"/>
+<circle cx="572" cy="238" r="116" fill="#101F44" stroke="rgba(255,255,255,0.12)"/>
+<circle cx="572" cy="238" r="78" fill="url(#g1)"/>
+<path d="M571 186c31 0 55 22 55 50 0 16-8 29-21 39a17 17 0 0 0-6 13v19h-54v-12c0-9 4-17 11-24l10-8c9-8 14-16 14-26 0-13-10-23-24-23-14 0-25 10-25 23h-36c0-32 34-51 76-51z" fill="#fff" opacity="0.94"/>
+<circle cx="572" cy="336" r="12" fill="#fff" opacity="0.94"/>
+<rect x="472" y="390" width="202" height="64" rx="18" fill="#12244D"/>
+<text x="505" y="430" fill="#DDE7FF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Learn with joy</text>
+</svg>

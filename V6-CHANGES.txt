@@ -1,0 +1,17 @@
+FREDNOVA WEBSITE V6 - VISUAL & ECOSYSTEM REFINEMENT
+
+1. Added a friendly visual mascot, Nova, for onboarding/help/learning contexts.
+2. Added local SVG illustrations for Education, Healthcare, Smart ID, Faith, Labs, Support and Demo pages.
+3. Replaced letter-only hero graphics on major pages with colourful illustrations.
+4. Added a visual highlights section to the homepage.
+5. Added FredTech (https://fredtech.in/) to Education, Labs, Support, Products, homepage ecosystem and footer links.
+6. Added SMS Bible using the exact user-provided URL: https://smsbibile.in/.
+7. Kept the four Render-hosted live apps connected:
+   - Little Voice: https://little-voice-english.onrender.com/
+   - Automatic ID Card Creator: https://automatic-id-card-database.onrender.com/
+   - Bus Enga: https://bus-enga.onrender.com/
+   - AI University: https://ai-university-ib4p.onrender.com/
+8. Preserved GitHub Pages compatibility: all new illustrations are local files with no image-host dependency.
+9. Validated all 11 HTML pages and local links/assets: no broken internal links detected.
+
+NOTE: FredTech was independently reachable during review. The SMS Bible domain could not be independently resolved in this environment, so it is linked exactly as provided by the user and should be clicked once before final public deployment.
